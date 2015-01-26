@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2012 - 2014 Nicolas A. Nowinski
+Copyright (c) 2012 - 2015 Nicolas A. Nowinski and ThinkPlusPlus LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

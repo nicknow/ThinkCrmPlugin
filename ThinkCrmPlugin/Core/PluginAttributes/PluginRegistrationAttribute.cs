@@ -62,6 +62,7 @@ namespace ThinkCrmPlugin.Core.PluginAttributes
             Entity postImage)
         {
             if (_messageType != messageType) return false;
+
             if (!string.IsNullOrEmpty(_primaryEntityLogicalName) &&
                 string.Equals(_primaryEntityLogicalName, primaryEntityName, StringComparison.InvariantCultureIgnoreCase))
                 return false;
